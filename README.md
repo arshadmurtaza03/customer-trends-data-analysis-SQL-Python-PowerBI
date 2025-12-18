@@ -64,6 +64,6 @@ MIT — feel free to fork, star, and use in your portfolio.
 
 ## 👨‍💻 About the Author
 Hey, I’m Arshad Murtaza, a Data Science & GenAI Enthusiast.
-💼 LinkedIn: [Arshad Murtaza](www.linkedin.com/in/arshadmurtaza)
+- 💼 LinkedIn: [Arshad Murtaza](https://www.linkedin.com/in/arshadmurtaza/)
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
