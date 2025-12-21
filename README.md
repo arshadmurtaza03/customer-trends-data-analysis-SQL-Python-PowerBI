@@ -55,7 +55,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Build presentation deck using Gamma AI
   
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
+7. **Screenshots / Demos**
+![Dashboard Preview](https://github.com/arshadmurtaza03/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_behavior_dashboard_screenshot.png)
 
 
 ## 📜 License
